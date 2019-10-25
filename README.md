@@ -1,2 +1,2 @@
 # RehearsappWeb
-React.JS frontend for Rehearsapp
+React.JS frontend for <a href="">Rehearsapp</a>
